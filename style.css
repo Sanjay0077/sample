@@ -1,0 +1,31 @@
+.navbar{
+    background-color: #3ec000;
+    padding: 15px;
+}
+.navbar a{
+    padding: 20px;
+    padding-top: 10px;
+    padding-right: 50px;
+    text-decoration: none;  
+    color: #ffffff;
+    font-size: 20px;
+}
+.hero{
+    height:45rem;
+    background-image: url("hero.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+}
+.hero .intro span{
+    font-size: 60px;
+    color: rgb(104,104,104);
+    
+}
+.hero .intro{
+    font-size: 80px;
+    font-weight: bold;
+    padding-left: 4em;
+    padding-top: 4em;
+}
+
